@@ -16,7 +16,7 @@ related:
   - 02-state-vector.md
   - 03-faces-attractors.md
   - ../formulas/master-equation.md
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-dmes-vectors.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md"
 sitemap_priority: 0.95
 citation_short: "Pau, A. (2025). DMES Vectors."
 term_code: "META-002"
@@ -127,7 +127,7 @@ Same person exhibits different DMES values across contexts:
 - D=9: "Building this because it matters to me"
 - D=2: "Doing this to prove something or meet expectations"
 
-**→ Details**: [Direction Vector](./02-direction-vector.md) *(to be created)*
+**→ Details**: [Direction Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-direction-vector.md) 
 
 ---
 
@@ -142,7 +142,7 @@ Same person exhibits different DMES values across contexts:
 - M=8: "This setback could mean failure, data, or approaching breakthrough"
 - M=3: "This proves I'm not good enough" (only interpretation)
 
-**→ Details**: [Meaning Vector](./02-meaning-vector.md) *(to be created)*
+**→ Details**: [Meaning Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-meaning-vector.md) 
 
 ---
 
@@ -157,7 +157,7 @@ Same person exhibits different DMES values across contexts:
 - E=8: Internal calm → calm presence
 - E=3: Internal panic → frozen or frantic over-performance
 
-**→ Details**: [Expression Vector](./02-expression-vector.md) *(to be created)*
+**→ Details**: [Expression Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md) 
 
 ---
 
@@ -174,7 +174,7 @@ Same person exhibits different DMES values across contexts:
 
 **Critical**: **When S drops below ~4.0, entire DMES system reorganizes.** This is autonomic response, not weakness.
 
-**→ Details**: [State Vector](./02-state-vector.md) *(to be created)*
+**→ Details**: [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) 
 
 ---
 
@@ -225,7 +225,7 @@ $$x(t) = \sum_{k} w_k(t) \cdot x^*_k$$
 
 where $x^*_k$ = DMES signature of Face $k$
 
-**Full dynamics**: See [Master Equation](../formulas/master-equation.md) *(to be created)*
+**Full dynamics**: See [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) 
 
 ---
 
@@ -263,22 +263,22 @@ $$P(x(t+\Delta t) \mid \text{DMES}_{\text{current}}, \text{history}, \text{conte
 ## See Also
 
 **Detailed vector guides** (read for depth):
-- [Direction Vector (D)](./02-direction-vector.md) — Motivational orientation
-- [Meaning Vector (M)](./02-meaning-vector.md) — Interpretive framework
-- [Expression Vector (E)](./02-expression-vector.md) — Outward manifestation
-- [State Vector (S)](./02-state-vector.md) — Nervous system regulation
+- [Direction Vector (D)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-direction-vector.md) — Motivational orientation
+- [Meaning Vector (M)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-meaning-vector.md) — Interpretive framework
+- [Expression Vector (E)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md) — Outward manifestation
+- [State Vector (S)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — Nervous system regulation
 
 **Related concepts**:
-- [What is Metastyling?](./01-what-is-metastyling.md) — Framework overview
-- [Faces as Attractors](./03-faces-attractors.md) — Stable DMES configurations
-- [Levels of Awareness](./04-levels-of-awareness.md) — Observational depth
+- [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — Framework overview
+- [Faces as Attractors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Stable DMES configurations
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Observational depth
 
 **Mathematics**:
 - [Master Equation](../formulas/master-equation.md) — How DMES generates dynamics
 
 **Applications**:
-- [Personal Navigation](../applications/personal-navigation.md) — DMES self-assessment
-- [Kendall Roy Case](../case-studies/kendall-roy-analysis.md) — DMES collapse analysis
+- [Personal Navigation](https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md) — DMES self-assessment
+- [Kendall Roy Case](https://github.com/Metastylist/metastyling-framework/blob/applications/organizational-development.md) — DMES collapse analysis
 
 **Reference**:
 - [Glossary](../GLOSSARY.md) — All terms including DMES
@@ -294,17 +294,17 @@ $$P(x(t+\Delta t) \mid \text{DMES}_{\text{current}}, \text{history}, \text{conte
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-dmes-vectors.md},
+  url={(https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={DMES, Direction, Meaning, Expression, State, identity vectors, entanglement}
 }
 ```
 
 ### APA
-Pau, A. (2025, December). *DMES Vectors: Four Dimensions of Identity Configuration*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *DMES Vectors: Four Dimensions of Identity Configuration*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
-Pau, Alice. "DMES Vectors: Four Dimensions of Identity Configuration." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "DMES Vectors: Four Dimensions of Identity Configuration." *Metastyling Framework Documentation*, Dec. 2025, github.com/Metastylist/metastyling-framework.
 
 ---
 
@@ -318,12 +318,12 @@ Pau, Alice. "DMES Vectors: Four Dimensions of Identity Configuration." *Metastyl
   "name": "DMES Vectors",
   "alternateName": ["DMES", "Direction Meaning Expression State"],
   "description": "Four entangled dimensions (Direction, Meaning, Expression, State) defining identity configuration",
-  "url": "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-dmes-vectors.md",
+  "url": "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md",
   "termCode": "META-002",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "Metastyling Ontology",
-    "url": "https://github.com/[username]/metastyling-framework",
+    "url": "https://github.com/Metastylist/metastyling-framework",
     "publisher": {
       "@type": "Person",
       "name": "Alice Pau"
@@ -367,4 +367,4 @@ DMES architecture synthesizes insights from control theory (feedback loops), pol
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
