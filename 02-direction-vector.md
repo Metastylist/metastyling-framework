@@ -235,4 +235,4 @@ Pau, Alice. "Direction Vector (D): Motivational Orientation." *Metastyling Frame
 
 ---
 
-*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework/blob/main/readme.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
