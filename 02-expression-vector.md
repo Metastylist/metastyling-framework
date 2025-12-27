@@ -14,7 +14,7 @@ related:
   - 02-meaning-vector
   - 02-state-vector
   - 04-levels-of-awareness
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-expression-vector.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md"
 sitemap_priority: 0.85
 citation_short: "Pau, A. (2025). Expression Vector."
 term_code: "META-002-C"
@@ -138,7 +138,7 @@ S: 2 → E: Collapsed OR Over-controlled (no regulation OR rigid masking)
 
 **Example**: Power posing (expanded posture) → measurably shifts cortisol/testosterone → influences S. This is E → S feedback.
 
-**Full details**: [State Vector](./02-state-vector.md)
+**Full details**: [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md)
 
 ---
 
@@ -207,14 +207,14 @@ S: 2 → E: Collapsed OR Over-controlled (no regulation OR rigid masking)
 ## See Also
 
 **DMES system**:
-- [DMES Vectors (Core)](./02-dmes-vectors.md) — Complete framework
-- [State Vector](./02-state-vector.md) — E↔S bidirectional feedback
-- [Direction Vector](./02-direction-vector.md) — D→E (autonomy → authenticity)
-- [Meaning Vector](./02-meaning-vector.md) — M→E (interpretation shapes expression)
+- [DMES Vectors (Core)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — Complete framework
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — E↔S bidirectional feedback
+- [Direction Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-direction-vector.md) — D→E (autonomy → authenticity)
+- [Meaning Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-meaning-vector.md) — M→E (interpretation shapes expression)
 
 **Related concepts**:
-- [Levels of Awareness](./04-levels-of-awareness.md) — LoA 2+ enables conscious Expression modulation
-- [Faces](./03-faces-attractors.md) — Each Face has characteristic E signature
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — LoA 2+ enables conscious Expression modulation
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Each Face has characteristic E signature
 
 ---
 
@@ -227,17 +227,17 @@ S: 2 → E: Collapsed OR Over-controlled (no regulation OR rigid masking)
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-expression-vector.md},
+  url={https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={Expression vector, communication, presence, congruence, style, message, WHAT, DMES, embodied cognition}
 }
 ```
 
 ### APA
-Pau, A. (2025, December). *Expression Vector (E): Outward Manifestation*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *Expression Vector (E): Outward Manifestation*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
-Pau, Alice. "Expression Vector (E): Outward Manifestation." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "Expression Vector (E): Outward Manifestation." *Metastyling Framework Documentation*, Dec. 2025, github.com/metastylist/metastyling-framework.
 
 ---
 
@@ -258,4 +258,4 @@ Pau, Alice. "Expression Vector (E): Outward Manifestation." *Metastyling Framewo
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
