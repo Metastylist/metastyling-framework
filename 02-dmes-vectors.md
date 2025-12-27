@@ -281,7 +281,7 @@ $$P(x(t+\Delta t) \mid \text{DMES}_{\text{current}}, \text{history}, \text{conte
 - [Kendall Roy Case](https://github.com/Metastylist/metastyling-framework/blob/applications/organizational-development.md) — DMES collapse analysis
 
 **Reference**:
-- [Glossary](../GLOSSARY.md) — All terms including DMES
+- [Glossary](https://github.com/Metastylist/metastyling-framework/blob/main/glossary.md) — All terms including DMES
 
 ---
 
