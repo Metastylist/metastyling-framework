@@ -14,7 +14,7 @@ related:
   - 02-meaning-vector
   - 02-expression-vector
   - 04-levels-of-awareness
-canonical_url: "[https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/02-direction-vector.md]"
+canonical_url: ("[https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/02-direction-vector.md]")
 sitemap_priority: 0.85
 citation_short: "Pau, A. (2025). Direction Vector."
 term_code: "META-002-A"
@@ -235,4 +235,4 @@ Pau, Alice. "Direction Vector (D): Motivational Orientation." *Metastyling Frame
 
 ---
 
-*Part of the [Metastyling Framework](github.com/Metastylist/metastyling-framework/blob/main/readme.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework/blob/main/read.md) — Architecture of Dynamic Identity Systems*
