@@ -14,7 +14,7 @@ related:
   - 04-levels-of-awareness.md
   - 05-modulation-mechanisms.md
   - ../formulas/master-equation.md
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/01-what-is-metastyling.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md"
 sitemap_priority: 1.0
 citation_short: "Pau, A. (2025). Metastyling Core Definition."
 term_code: "META-001"
@@ -119,26 +119,26 @@ where:
 ## See Also
 
 **Foundational concepts** (read next):
-- [DMES Vectors](./02-dmes-vectors.md) — Four entangled vectors
-- [Faces as Attractors](./03-faces-attractors.md) — Stable identity modes
-- [Levels of Awareness](./04-levels-of-awareness.md) — Observational depth
-- [Modulation Mechanisms](./05-modulation-mechanisms.md) — How change happens
+- [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — Four entangled vectors
+- [Faces as Attractors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Stable identity modes
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Observational depth
+- [Modulation Mechanisms](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md) — How change happens
 
 **Mathematical foundation**:
-- [Master Equation](../formulas/master-equation.md) — Complete formalism
-- [Cost Function](../formulas/cost-function.md) — Transition economics
-- [Forecasting](../formulas/forecasting.md) — Modeling probable futures
+- [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) — Complete formalism
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — Transition economics
+- [Forecasting](https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md) — Modeling probable futures
 
 **Applications**:
 - [Personal Navigation](../applications/personal-navigation.md) — Identity work protocols
 - [Organizational Development](../applications/organizational-development.md) — Team dynamics
 
 **Case Studies**:
-- [Kendall Roy Analysis](../case-studies/kendall-roy-analysis.md) — Leadership collapse patterns
-- [Oprah Winfrey Transition](../case-studies/oprah-winfrey-transition.md) — LoA 2→3 shift
+- [Kendall Roy Analysis](https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md) — Leadership collapse patterns
+- [Oprah Winfrey Transition](https://github.com/Metastylist/metastyling-framework/blob/applications/organizational-development.md) — LoA 2→3 shift
 
 **Reference**:
-- [Glossary](../GLOSSARY.md) — All terms defined
+- [Glossary](https://github.com/Metastylist/metastyling-framework/blob/main/glossary.md) — All terms defined
 
 ---
 
