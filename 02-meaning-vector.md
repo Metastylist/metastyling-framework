@@ -14,7 +14,7 @@ related:
   - 02-state-vector
   - 02-expression-vector
   - 04-levels-of-awareness
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-meaning-vector.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-meaning-vector.md"
 sitemap_priority: 0.85
 citation_short: "Pau, A. (2025). Meaning Vector."
 term_code: "META-002-B"
@@ -226,14 +226,14 @@ Confirmation bias loop: seek evidence confirming threat
 ## See Also
 
 **DMES system**:
-- [DMES Vectors (Core)](./02-dmes-vectors.md) — Complete framework
-- [State Vector](./02-state-vector.md) — S→M coupling (threat-lock when S low)
-- [Direction Vector](./02-direction-vector.md) — D→M (direction shapes narrative)
-- [Expression Vector](./02-expression-vector.md) — M→E (interpretation determines expression)
+- [DMES Vectors (Core)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — Complete framework
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S→M coupling (threat-lock when S low)
+- [Direction Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-direction-vector.md) — D→M (direction shapes narrative)
+- [Expression Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md) — M→E (interpretation determines expression)
 
 **Related concepts**:
-- [Levels of Awareness](./04-levels-of-awareness.md) — LoA 2+ enables seeing interpretations as constructed
-- [Faces](./03-faces-attractors.md) — Each Face has characteristic M signature
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — LoA 2+ enables seeing interpretations as constructed
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Each Face has characteristic M signature
 
 ---
 
@@ -246,17 +246,17 @@ Confirmation bias loop: seek evidence confirming threat
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-meaning-vector.md},
+  url={https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/02-meaning-vector.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={Meaning vector, interpretation, narrative, threat-lock, story vs experience, WHERE, DMES, cognitive reframe}
 }
 ```
 
 ### APA
-Pau, A. (2025, December). *Meaning Vector (M): Interpretive Framework*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *Meaning Vector (M): Interpretive Framework*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
-Pau, Alice. "Meaning Vector (M): Interpretive Framework." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "Meaning Vector (M): Interpretive Framework." *Metastyling Framework Documentation*, Dec. 2025, github.com/Metastylist/metastyling-framework.
 
 ---
 
@@ -277,4 +277,4 @@ Pau, Alice. "Meaning Vector (M): Interpretive Framework." *Metastyling Framework
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
