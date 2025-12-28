@@ -362,14 +362,14 @@ Developing LoA from 0→2 costs ~500-1000 tokens over 3-6 months, but yields:
 ## See Also
 
 **Foundational**:
-- [Master Equation](./master-equation.md) — Complete system dynamics
-- [State Vector](../core-concepts/02-state-vector.md) — S affects resource capacity R
-- [Faces](../core-concepts/03-faces-attractors.md) — Attractor depth β
-- [LoA](../core-concepts/04-levels-of-awareness.md) — Navigation efficiency η
+- [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) — Complete system dynamics
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S affects resource capacity R
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Attractor depth β
+- [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Navigation efficiency η
 
 **Other formulas**:
-- [Forecast Equation](./forecast-equation.md) — Probability of reaching target
-- [Time Equation](./time-equation.md) — Duration = Cost / R
+- [Forecast Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md) — Probability of reaching target
+- [Time Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/time-equation.md) — Duration = Cost / R
 
 ---
 
@@ -413,4 +413,4 @@ Pau, Alice. "Cost Function: Transition Economics." *Metastyling Framework Docume
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
