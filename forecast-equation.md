@@ -14,7 +14,7 @@ related:
   - 02-state-vector
   - 03-faces-attractors
   - 04-levels-of-awareness
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/formulas/forecast-equation.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md"
 sitemap_priority: 0.85
 citation_short: "Pau, A. (2025). Forecast Equation."
 term_code: "META-F003"
@@ -357,14 +357,13 @@ Future C: P=10%, Cost=High, Time=6 months  → Risky (reconsider goal?)
 ## See Also
 
 **Foundational**:
-- [Master Equation](./master-equation.md) — Dynamics governing forecast
-- [Cost Function](./cost-function.md) — Economics of reaching forecasted states
-- [LoA](../core-concepts/04-levels-of-awareness.md) — Determines forecast horizon
-- [State Vector](../core-concepts/02-state-vector.md) — S stability affects forecast reliability
+- [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) — Dynamics governing forecast
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — Economics of reaching forecasted states
+- [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Determines forecast horizon
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S stability affects forecast reliability
 
 **Applications**:
-- [Computational Framework](../applications/computational-framework.md) — Implementation details
-- [Case Studies](../case-studies/) — Forecasting in action
+- [Case Studies](https://github.com/Metastylist/metastyling-framework/tree/case-studies) — LoA in action across different scenarios
 
 ---
 
@@ -408,4 +407,4 @@ Pau, Alice. "Forecast Equation: Probability of Future States." *Metastyling Fram
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — LoA in action across different scenarios) — Architecture of Dynamic Identity Systems*
