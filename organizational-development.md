@@ -15,7 +15,7 @@ related:
   - 03-faces-attractors
   - 04-levels-of-awareness
   - personal-navigation
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/applications/organizational-development.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/applications/organizational-development.md"
 sitemap_priority: 0.8
 citation_short: "Pau, A. (2025). Organizational Development."
 term_code: "META-A002"
@@ -435,12 +435,12 @@ Timeline: 12-18 months to stabilize new collective configuration
 ## See Also
 
 **Foundational**:
-- [Metastyling Overview](../core-concepts/01-what-is-metastyling.md)
-- [State Vector](../core-concepts/02-state-vector.md) — Collective S dynamics
-- [Faces](../core-concepts/03-faces-attractors.md) — Team configurations
+- [Metastyling Overview](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md)
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — Collective S dynamics
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Team configurations
 
 **Related applications**:
-- [Personal Navigation](./personal-navigation.md) — Individual protocols (foundation for collective work)
+- [Personal Navigation](https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md) — Individual protocols (foundation for collective work)
 
 **Case studies**:
 - Organizational transitions (to be documented)
@@ -487,4 +487,4 @@ Pau, Alice. "Organizational Development: Team Dynamics as Collective Fields." *M
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
