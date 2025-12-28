@@ -14,7 +14,7 @@ related:
   - 02-meaning-vector
   - 02-expression-vector
   - 04-levels-of-awareness
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-state-vector.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md"
 sitemap_priority: 0.85
 citation_short: "Pau, A. (2025). State Vector."
 term_code: "META-002-D"
@@ -211,7 +211,7 @@ Higher LoA enables:
 
 **Virtuous cycle**: LoA 2+ → catch S decline early → stabilize before threshold → maintain LoA capacity.
 
-**Full details**: [Levels of Awareness](./04-levels-of-awareness.md)
+**Full details**: [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md)
 
 ---
 
@@ -235,17 +235,17 @@ Higher LoA enables:
 ## See Also
 
 **DMES system**:
-- [DMES Vectors (Core)](./02-dmes-vectors.md) — Complete framework
-- [Direction Vector](./02-direction-vector.md) — How S affects motivation
-- [Meaning Vector](./02-meaning-vector.md) — Threat-lock when S low
-- [Expression Vector](./02-expression-vector.md) — E-S feedback loop
+- [DMES Vectors (Core)](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — Complete framework
+- [Direction Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-direction-vector.md) — How S affects motivation
+- [Meaning Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-meaning-vector.md) — Threat-lock when S low
+- [Expression Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-expression-vector.md) — E-S feedback loop
 
 **Related concepts**:
-- [Levels of Awareness](./04-levels-of-awareness.md) — S-LoA coupling
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — S-LoA coupling
 - [Modulation Mechanisms](./05-modulation-mechanisms.md) — How to regulate State
 
 **Applications**:
-- [Personal Navigation](../applications/personal-navigation.md) — State assessment protocols
+- [Personal Navigation](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md) — State assessment protocols
 
 ---
 
@@ -258,17 +258,17 @@ Higher LoA enables:
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/02-state-vector.md},
+  url={https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={State vector, nervous system regulation, polyvagal theory, window of tolerance, DMES, autonomic nervous system}
 }
 ```
 
 ### APA
-Pau, A. (2025, December). *State Vector (S): Nervous System Regulation*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *State Vector (S): Nervous System Regulation*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
-Pau, Alice. "State Vector (S): Nervous System Regulation." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "State Vector (S): Nervous System Regulation." *Metastyling Framework Documentation*, Dec. 2025, github.com/Metastylist/metastyling-framework.
 
 ---
 
@@ -289,4 +289,4 @@ Pau, Alice. "State Vector (S): Nervous System Regulation." *Metastyling Framewor
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework/main) — Architecture of Dynamic Identity Systems*
