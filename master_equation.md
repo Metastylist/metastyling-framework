@@ -294,17 +294,17 @@ Where:
 ## See Also
 
 **Foundational concepts**:
-- [What is Metastyling?](../core-concepts/01-what-is-metastyling.md) — Conceptual overview
-- [DMES Vectors](../core-concepts/02-dmes-vectors.md) — $x = [D, M, E, S]$
-- [Faces](../core-concepts/03-faces-attractors.md) — Attractor basins $F_k$
-- [LoA](../core-concepts/04-levels-of-awareness.md) — Observational depth $\Phi$
+- [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — Conceptual overview
+- [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — $x = [D, M, E, S]$
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Attractor basins $F_k$
+- [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Observational depth $\Phi$
 
 **Other formulas**:
-- [Transition Cost](./cost-function.md) — Economics of movement
-- [Forecasting](./forecast-equation.md) — Probability distributions over futures
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — Economics of movement
+- [Forecast Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md) — Probability distributions over futures
 
-**Applications**:
-- [Computational Implementation](../applications/computational-framework.md) — How to build systems using these equations
+- **Applications**:
+- [Case Studies](https://github.com/Metastylist/metastyling-framework/tree/case-studies) — across different scenarios
 
 ---
 
@@ -348,4 +348,4 @@ Pau, Alice. "Master Equation: Mathematical Formalization." *Metastyling Framewor
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
