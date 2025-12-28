@@ -16,7 +16,7 @@ related:
   - 02-meaning-vector
   - 02-expression-vector
   - 04-levels-of-awareness
-canonical_url: "https://github.com/[username]/metastyling-framework/blob/main/core-concepts/03-faces-attractors.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md"
 sitemap_priority: 0.9
 citation_short: "Pau, A. (2025). Faces as Attractors."
 term_code: "META-003"
@@ -218,7 +218,7 @@ Behavior: Synthesizing → Defensive analysis
 
 **This is landscape architecture**—reshaping the topology itself.
 
-**Full details**: [Research: Landscape Architecture](../research/landscape-architecture.md)
+**Full details**: [Part VI: Laboratory Protocols (PDF)](https://github.com/Metastylist/metastyling-framework/blob/main/Metastyling_Part6.pdf) — Section 2: Landscape Architecture
 
 ---
 
@@ -244,15 +244,14 @@ Behavior: Synthesizing → Defensive analysis
 ## See Also
 
 **Foundational concepts**:
-- [What is Metastyling?](./01-what-is-metastyling.md) — Framework overview
-- [DMES Vectors](./02-dmes-vectors.md) — Face = stable DMES configuration
+- [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — Framework overview
+- [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — Face = stable DMES configuration
 
 **Related**:
-- [Levels of Awareness](./04-levels-of-awareness.md) — LoA 2+ enables Face selection
-- [Modulation Mechanisms](./05-modulation-mechanisms.md) — How to shift between Faces
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — LoA 2+ enables Face selection
+- [Modulation Mechanisms](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md) — How to shift between Faces
 
 **Applications**:
-- [Face Mapping Protocol](../applications/face-mapping.md) — How to identify your repertoire
 - [Case Study: Kendall Roy](../case-studies/kendall-roy-analysis.md) — Face collapse under pressure
 
 ---
@@ -266,17 +265,17 @@ Behavior: Synthesizing → Defensive analysis
   author={Pau, Alice},
   year={2025},
   month={12},
-  url={https://github.com/[username]/metastyling-framework/blob/main/core-concepts/03-faces-attractors.md},
+  url={https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/03-faces-attractors.md},
   note={Metastyling Framework Documentation v1.0},
   keywords={Faces, attractors, identity modes, DMES configurations, attractor basins, dynamical systems, repertoire}
 }
 ```
 
 ### APA
-Pau, A. (2025, December). *Faces as Attractors: Stable Identity Modes*. Metastyling Framework Documentation. https://github.com/[username]/metastyling-framework
+Pau, A. (2025, December). *Faces as Attractors: Stable Identity Modes*. Metastyling Framework Documentation. https://github.com/Metastylist/metastyling-framework
 
 ### MLA
-Pau, Alice. "Faces as Attractors: Stable Identity Modes." *Metastyling Framework Documentation*, Dec. 2025, github.com/[username]/metastyling-framework.
+Pau, Alice. "Faces as Attractors: Stable Identity Modes." *Metastyling Framework Documentation*, Dec. 2025, github.com/Metastylist/metastyling-framework.
 
 ---
 
@@ -297,4 +296,4 @@ Pau, Alice. "Faces as Attractors: Stable Identity Modes." *Metastyling Framework
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
