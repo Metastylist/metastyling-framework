@@ -284,13 +284,13 @@ $$R(t) = 12 < R_{\min} = 20$$
 ## See Also
 
 **Other formulas**:
-- [Cost Function](./cost-function.md) — Numerator of Time equation
-- [Master Equation](./master-equation.md) — R(t) as function of system state
-- [Forecast Equation](./forecast-equation.md) — Probability of reaching target in given time
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — Numerator of Time equation
+- [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) — R(t) as function of system state
+- [Forecast Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md) — Probability of reaching target in given time
 
 **Foundational**:
-- [State Vector](../core-concepts/02-state-vector.md) — S determines R(t)
-- [LoA](../core-concepts/04-levels-of-awareness.md) — LoA affects navigation efficiency
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S determines R(t)
+- [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — LoA affects navigation efficiency
 
 ---
 
@@ -334,4 +334,4 @@ Pau, Alice. "Time Equation: Duration as Emergent Property." *Metastyling Framewo
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
