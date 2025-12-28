@@ -17,7 +17,7 @@ related:
   - master-equation
   - cost-function
   - forecast-equation
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/applications/personal-navigation.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md"
 sitemap_priority: 0.8
 citation_short: "Pau, A. (2025). Personal Navigation."
 term_code: "META-A001"
@@ -42,9 +42,9 @@ Personal Navigation translates Metastyling theory into operational practice—pr
 **This is not therapy**—it is field cartography. The framework provides maps and tools. You navigate.
 
 **Prerequisites**:
-- ✅ Understanding of [DMES Vectors](../core-concepts/02-dmes-vectors.md)
-- ✅ Understanding of [Faces](../core-concepts/03-faces-attractors.md)
-- ✅ Understanding of [LoA](../core-concepts/04-levels-of-awareness.md)
+- ✅ Understanding of [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md)
+- ✅ Understanding of [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md)
+- ✅ Understanding of [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md)
 
 **Time investment**: Initial mapping (2-4 hours), ongoing observation (10-15 min/day)
 
@@ -414,17 +414,17 @@ $$\text{Time} = \frac{\text{Cost}}{R(t)} = \frac{_____}{_____} = _____ \text{ we
 
 **Foundational**:
 - [DMES Vectors](../core-concepts/02-dmes-vectors.md) — What you're mapping
-- [Faces](../core-concepts/03-faces-attractors.md) — Configurations you're navigating
-- [LoA](../core-concepts/04-levels-of-awareness.md) — Depth determines range
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Configurations you're navigating
+- [LoA](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — Depth determines range
 
 **Mathematical framework**:
-- [Cost Function](../formulas/cost-function.md) — Estimate transition requirements
-- [Forecast Equation](../formulas/forecast-equation.md) — Model probable futures
-- [Time Equation](../formulas/time-equation.md) — Calculate sustainable timeline
+- [Cost Function]() — Estimate transition requirements
+- [Forecast Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/forecast-equation.md) — Model probable futures
+- [Time Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/time-equation.md) — Calculate sustainable timeline
 
 **Case studies**:
-- [Kendall Roy Analysis](../case-studies/kendall-roy-analysis.md) — LoA 0 navigation
-- [Oprah Winfrey Transition](../case-studies/oprah-winfrey-transition.md) — LoA 2→3
+- [Kendall Roy Analysis](https://github.com/Metastylist/metastyling-framework/blob/case-studies/kendall-roy-analysis.md) — LoA 0 navigation
+- [Oprah Winfrey Transition](https://github.com/Metastylist/metastyling-framework/blob/case-studies/oprah-winfrey-transition.md) — LoA 2→3
 
 ---
 
@@ -468,4 +468,4 @@ Pau, Alice. "Personal Navigation: Identity Work Protocols." *Metastyling Framewo
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
