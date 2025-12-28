@@ -289,4 +289,4 @@ Pau, Alice. "State Vector (S): Nervous System Regulation." *Metastyling Framewor
 
 ---
 
-*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework/main) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
