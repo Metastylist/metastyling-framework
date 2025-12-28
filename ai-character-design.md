@@ -16,7 +16,7 @@ related:
   - 05-modulation-mechanisms
   - master-equation
   - personal-navigation
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/applications/ai-character-design.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/applications/ai-character-design.md"
 sitemap_priority: 0.75
 citation_short: "Pau, A. (2025). AI Character Design."
 term_code: "META-A003"
@@ -456,17 +456,17 @@ if player_action == "betray_trust":
 ## See Also
 
 **Foundational**:
-- [Metastyling Overview](../core-concepts/01-what-is-metastyling.md)
-- [DMES Vectors](../core-concepts/02-dmes-vectors.md)
-- [Faces](../core-concepts/03-faces-attractors.md)
-- [Modulation Mechanisms](../core-concepts/05-modulation-mechanisms.md)
+- [Metastyling Overview](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md)
+- [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md)
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md)
+- [Modulation Mechanisms](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md)
 
 **Related applications**:
-- [Personal Navigation](./personal-navigation.md) — Individual protocols (similar structure)
-- [Organizational Development](./organizational-development.md) — Collective fields (multi-agent coupling)
+- [Personal Navigation](https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md) — Individual protocols (similar structure)
+- [Organizational Development](https://github.com/Metastylist/metastyling-framework/blob/applications/organizational-development.md) — Collective fields (multi-agent coupling)
 
 **Mathematical framework**:
-- [Master Equation](../formulas/master-equation.md) — Face activation dynamics
+- [Master Equation](https://github.com/Metastylist/metastyling-framework/blob/formulas/master_equation.md) — Face activation dynamics
 
 ---
 
@@ -510,4 +510,4 @@ Pau, Alice. "AI Character Design: Dynamic NPCs & Narrative Agents." *Metastyling
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
