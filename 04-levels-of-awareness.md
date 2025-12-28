@@ -14,7 +14,7 @@ related:
   - 02-state-vector
   - 03-faces-attractors
   - 05-modulation-mechanisms
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/04-levels-of-awareness.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md"
 sitemap_priority: 0.9
 citation_short: "Pau, A. (2025). Levels of Awareness."
 term_code: "META-004"
@@ -168,7 +168,7 @@ Observation function comes back online
 **Virtuous cycle**:
 - Higher LoA → earlier detection of S decline → intervention before collapse → maintain LoA capacity
 
-**Full details**: [State Vector](./02-state-vector.md)
+**Full details**: [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md)
 
 ---
 
@@ -246,18 +246,18 @@ Observation function comes back online
 ## See Also
 
 **Foundational concepts**:
-- [What is Metastyling?](./01-what-is-metastyling.md) — LoA as core mechanism
-- [DMES Vectors](./02-dmes-vectors.md) — LoA determines which vectors you can modulate
-- [State Vector](./02-state-vector.md) — S↔LoA coupling (critical)
-- [Faces](./03-faces-attractors.md) — LoA 2+ enables Face selection
+- [What is Metastyling?](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/01-what-is-metastyling.md) — LoA as core mechanism
+- [DMES Vectors](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-dmes-vectors.md) — LoA determines which vectors you can modulate
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S↔LoA coupling (critical)
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — LoA 2+ enables Face selection
 
 **Related**:
-- [Modulation Mechanisms](./05-modulation-mechanisms.md) — Different mechanisms work at different LoA
-- [Transition Economics](../formulas/transition-cost.md) — LoA affects navigation efficiency
+- [Modulation Mechanisms](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md) — Different mechanisms work at different LoA
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — LoA affects navigation efficiency
 
 **Applications**:
-- [LoA Development Protocol](../applications/loa-training.md) — How to train observational depth
-- [Case Studies](../case-studies/) — LoA in action across different scenarios
+- [Personal Navigation](https://github.com/Metastylist/metastyling-framework/blob/applications/personal-navigation.md) — Applying LoA for identity navigation
+- [Case Studies](https://github.com/Metastylist/metastyling-framework/tree/case-studies) — LoA in action across different scenarios
 
 ---
 
@@ -301,4 +301,4 @@ Pau, Alice. "Levels of Awareness (LoA): Observational Depth." *Metastyling Frame
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework](https://github.com/Metastylist/metastyling-framework) — Architecture of Dynamic Identity Systems*
