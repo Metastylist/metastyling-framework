@@ -14,7 +14,7 @@ related:
   - 02-state-vector
   - 03-faces-attractors
   - 04-levels-of-awareness
-canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/main/core-concepts/05-modulation-mechanisms.md"
+canonical_url: "https://github.com/Metastylist/metastyling-framework/blob/core-concepts/05-modulation-mechanisms.md"
 sitemap_priority: 0.9
 citation_short: "Pau, A. (2025). Modulation Mechanisms."
 term_code: "META-005"
@@ -256,13 +256,13 @@ External pattern → Matches internal frequency → Resonance amplifies → Dorm
 ## See Also
 
 **Foundational concepts**:
-- [Levels of Awareness](./04-levels-of-awareness.md) — LoA determines which mechanisms are accessible
-- [Faces](./03-faces-attractors.md) — Mechanisms shift Face activation patterns
-- [State Vector](./02-state-vector.md) — S must be stable for observation to work
+- [Levels of Awareness](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/04-levels-of-awareness.md) — LoA determines which mechanisms are accessible
+- [Faces](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/03-faces-attractors.md) — Mechanisms shift Face activation patterns
+- [State Vector](https://github.com/Metastylist/metastyling-framework/blob/core-concepts/02-state-vector.md) — S must be stable for observation to work
 
 **Applications**:
-- [Transition Economics](../formulas/transition-cost.md) — Mechanisms have different cost structures
-- [Case Studies](../case-studies/) — Mechanisms in action
+- [Cost Function](https://github.com/Metastylist/metastyling-framework/blob/formulas/cost-function.md) — Mechanisms have different cost structures
+- [Case Studies](https://github.com/Metastylist/metastyling-framework/tree/case-studies) — LoA in action across different scenarios
 
 ---
 
@@ -306,4 +306,4 @@ Pau, Alice. "Modulation Mechanisms: How Change Happens." *Metastyling Framework 
 
 ---
 
-*Part of the [Metastyling Framework](../README.md) — Architecture of Dynamic Identity Systems*
+*Part of the [Metastyling Framework]([Case Studies](https://github.com/Metastylist/metastyling-framework) — LoA in action across different scenarios) — Architecture of Dynamic Identity Systems*
