@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+type: software
+authors:
+  - family-names: Pau
+    given-names: Alice
+title: "Metastyling Framework: A Dynamic Systems Approach to Identity Architecture"
+version: 1.0.0
+date-released: 2025-12-26
+url: "https://github.com/Metastylist/metastyling-framework"
+repository-code: "https://github.com/Metastylist/metastyling-framework"
+keywords:
+  - identity architecture
+  - DMES vectors
+  - dynamical systems
+  - Faces
+  - Levels of Awareness
+  - metastyling
+  - attractor dynamics
+  - cognitive architecture
+license: CC-BY-NC-SA-4.0
+abstract: |
+  Metastyling treats identity as a complex adaptive system governed by measurable 
+  dynamics, navigable through strategic reconfiguration, and modeled using principles 
+  from dynamical systems theory, cognitive neuroscience, and machine learning. The 
+  framework provides formal architecture (DMES vectors, Faces as attractors, Levels 
+  of Awareness), mathematical equations for state evolution and transition cost, and 
+  practical protocols for personal development, organizational strategy, and AI character design.
+references:
+  - type: generic
+    title: "Metastyling Part I: Theoretical Framework"
+    authors:
+      - family-names: Pau
+        given-names: Alice
+    year: 2025
+    url: "https://github.com/Metastylist/metastyling-framework/blob/main/metastyling_part1.pdf"
+  - type: generic
+    title: "Metastyling Part VI: Laboratory Protocols for Identity Research"
+    authors:
+      - family-names: Pau
+        given-names: Alice
+    year: 2025
+    url: "https://github.com/Metastylist/metastyling-framework/blob/main/Metastyling_Part6.pdf"
+  - type: generic
+    title: "Metastyling Part VII: Applied Architecture - Systems for Navigating Possibility"
+    authors:
+      - family-names: Pau
+        given-names: Alice
+    year: 2025
+    url: "https://github.com/Metastylist/metastyling-framework/blob/main/Metastyling_Part7.pdf"
